@@ -1,4 +1,9 @@
-## Hi there 👋
+• 👋 Hi, I'm Nic
+• 🏄‍♂️ Computer Engineering at UCSB
+• 🏠 I'm interested in building cool projects
+• ⛳️ I'm currently learning full-stack dev
+• 🏀 Ask me about sports
+• 📫 How to reach me: nicolas.x.santos@gmail.com
 
 <!--
 **nicxs3/nicxs3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
