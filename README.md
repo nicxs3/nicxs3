@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Nic
 - 🏄‍♂️ Computer Engineering at UCSB
 - 🏠 I'm interested in building cool projects
-- ⛳️ I'm currently learning full-stack dev
 - 📫 How to reach me: nicolas.x.santos@gmail.com
 
 <!--
